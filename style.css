@@ -50,23 +50,10 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 120px!important;
+    height:160px !important ;
 }
-.estudante-sexugi{
-    width: 100px;
-}
-.estudante-rayssa{
-    width: 120px;
-    height: 120px;
-}
-.estudante-padilha{
-    width: 90px;
-    height: 120px;
-}
-.estudante-kurmann{
-    width: 90px;
-    height: 160px;
-}
+
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
